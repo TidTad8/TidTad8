@@ -1,4 +1,6 @@
-Hi there! I'm an undergraduate student passionate about cybersecurity & web technologies. 
+Hi there! 
+
+I like cybersecurity & web technologies
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TidTad8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
